@@ -1,6 +1,3 @@
-
-
-
 body {
   margin: 40px;
 }
@@ -75,10 +72,10 @@ body {
 
 .header,
 .footer {
-  background-color: #999;
+  background-color:"#FFB6C1";
 }
 
 .sidebar2 {
-  background-color: #ccc;
+  background-color:"#FFB6C1";
   color: #444;
 }
